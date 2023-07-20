@@ -11,6 +11,7 @@
     <h2>Follow each link to the page example</h2>
   
     <ul>
+        <li> <a href="functions.php">functions</a></li>
         <li> <a href="array.php">Array Statement</a></li>
         <li> <a href="datetime.php">Date time manipulation</a></li>
         <li> <a href="stringmanipulation.php">STRING mANIPULATIONt</a></li>
