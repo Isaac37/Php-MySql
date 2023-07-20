@@ -12,6 +12,7 @@
   
     <ul>
         <li> <a href="array.php">Array Statement</a></li>
+        <li> <a href="datetime.php">Date time manipulation</a></li>
         <li> <a href="stringmanipulation.php">STRING mANIPULATIONt</a></li>
         <li> <a href="forloop.php">For Loop</a></li>
         <li> <a href="whileloop.php">While/ Do While Loop</a></li>

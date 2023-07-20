@@ -21,6 +21,7 @@
          echo '<br/>';
          echo strtoupper($name);
          echo '<hr/>'; 
+         echo strlen($name);
     ?>
      
 </body>
