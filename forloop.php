@@ -1,4 +1,6 @@
-<?php include 'includes/header.php' ?>
+<?php
+$title = 'For Loop';
+include 'includes/header.php' ?>
     <h1>For Loop</h1>
 
     <?php
@@ -9,5 +11,4 @@
             echo "<p>$count</p>";
         }
     ?>
-</body>
-</html>
+<?php require 'includes/footer.php' ?>

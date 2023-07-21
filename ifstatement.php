@@ -1,4 +1,6 @@
-<?php include 'includes/header.php' ?>
+<?php 
+$title = 'If Statement';
+include 'includes/header.php' ?>
 <h2>PHP If Statement</h2>
     <?php
     echo"<h2>If Statement</h2>";
@@ -20,5 +22,4 @@
         echo '<h3 style ="color:red">You have failed </h3>';
     }
     ?>
-</body>
-</html>
+<?php require 'includes/footer.php' ?>

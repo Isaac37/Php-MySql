@@ -1,4 +1,6 @@
-<?php include 'includes/header.php' ?>
+<?php 
+$title = 'Switch Statement';
+include 'includes/header.php' ?>
 <h2>Switch Statement</h2>
     <?php
 $grade = 'C';

@@ -1,4 +1,6 @@
-<?php include 'includes/header.php' ?>
+<?php
+$title = 'While Loop';
+include 'includes/header.php' ?>
 <h1>While Loop</h1>
 <?php
     $grade = 0;
@@ -24,6 +26,4 @@
             echo '<p>Hello World</p>';
         } while ($grade < 10);
     ?>
-</body>
-
-</html>
+<?php require 'includes/footer.php' ?>

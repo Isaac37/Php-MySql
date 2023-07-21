@@ -1,4 +1,6 @@
-<?php include 'includes/header.php' ?>
+<?php 
+$title = 'Date & Time';
+include 'includes/header.php' ?>
     <h1>Date time manipulation</h1>
 
     <?php
@@ -21,6 +23,4 @@
        
     ?>
 
-</body>
-
-</html>
+<?php require 'includes/footer.php' ?>

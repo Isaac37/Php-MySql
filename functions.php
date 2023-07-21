@@ -1,4 +1,6 @@
-<?php include 'includes/header.php' ?>
+<?php 
+$title = 'Functions';
+include 'includes/header.php' ?>
     <h1>Functions</h1>
 
     <?php
@@ -22,6 +24,4 @@
 
     ?>
 
-</body>
-
-</html>
+<?php require 'includes/footer.php' ?>

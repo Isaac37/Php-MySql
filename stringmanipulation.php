@@ -1,4 +1,6 @@
-<?php include 'includes/header.php' ?>
+<?php 
+$title = 'String Manipulation';
+include 'includes/header.php' ?>
     <h1>String Manipulation</h1>
     <?php
          $phrase1 = "Hello world";
@@ -16,7 +18,4 @@
          echo '<hr/>'; 
          echo strlen($name);
     ?>
-
-</body>
-
-</html>
+<?php require 'includes/footer.php' ?>

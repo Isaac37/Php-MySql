@@ -1,10 +1,12 @@
-<?php include 'includes/header.php' ?>
-    <h1>Hello World</h1>
-    <?php
+<?php 
+$title = 'index';
+include 'includes/header.php' ?>
+<h1>Hello World</h1>
+<?php
         echo'Hello php';
         ?>
 
-    <?php
+<?php
         $name = 'Isaac';
         $age = 5;
         echo '<br/>';
@@ -13,7 +15,6 @@
         // echo '<br/>'; 
         echo'<h1> My Age is:'.$age.' </h1>';
         ?>
-       
-</body>
 
-</html>
+<?php require 'includes/footer.php' ?>
+
