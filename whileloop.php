@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>While/ Do While Loops</title>
-</head>
-<body>
+<?php include 'includes/header.php' ?>
 <h1>While Loop</h1>
-    <?php
+<?php
     $grade = 0;
     //This is an infinite loop
     // while ($grade <= 10) {
@@ -24,12 +17,13 @@
 
     ?>
 
-    <h1>Do while</h1>
-    <?php
+<h1>Do while</h1>
+<?php
     //Pre-Condition Loop
         do {
             echo '<p>Hello World</p>';
         } while ($grade < 10);
     ?>
 </body>
+
 </html>

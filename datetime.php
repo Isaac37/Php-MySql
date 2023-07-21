@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Date time manipulation</title>
-</head>
-
-<body>
+<?php include 'includes/header.php' ?>
     <h1>Date time manipulation</h1>
 
     <?php
